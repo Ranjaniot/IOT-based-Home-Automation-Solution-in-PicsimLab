@@ -1,4 +1,4 @@
-# IOT
+# IOT (IOT based home automation Solution in picsimlab)
 The project is designed to develop empowering homes with smart iot-based inlate valve 
 and outlate valve automation solutions in PICSimLab. PICSimLab is a real time emulator of 
 development boards with integrated MPLABX/avrgdb debugger. PICSimLab have 
